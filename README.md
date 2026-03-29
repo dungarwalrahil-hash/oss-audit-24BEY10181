@@ -15,7 +15,7 @@ I’m **Rahil** (`Rahil`, reg no `24BEY10181`). I wrote a few small shell script
 
 ## How to run the scripts
 
-From the repo directory (`https://github.com/Rahilanand75-crypto/LINUX/tree/main`):
+From the repo directory (`https://github.com/dungarwalrahil-hash/oss-audit-24BEY10181`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
